@@ -43,7 +43,7 @@ class GoogleProvider(routesService: RoutesService,
   val Emails = "emails"
   val Email = "value"
   val EmailType = "type"
-  val Account = "account"
+  val Account = "ACCOUNT"
 
   override val id = GoogleProvider.Google
 
